@@ -17,6 +17,7 @@
   min-inline-size: 320px;
   min-block-size: 100dvb;
   background-size: cover;
+  font-variation-settings: 'wght' 400;
 }
 
 .background-page {
@@ -55,6 +56,7 @@
 }
 
 .header__text {
+  
   font-family: var(--accent-font-family), sans-serif;
   text-transform: uppercase;
   font-size: clamp(0.875rem, 0.6769rem + 0.8451vw, 1.4375rem);
@@ -79,6 +81,7 @@
 }
 
 .card-list-heading {
+  font-variation-settings: 'wght' 700;
   font-size: 18px;
   font-weight: var(--heading-font--weight);
   padding-inline: 10px;
