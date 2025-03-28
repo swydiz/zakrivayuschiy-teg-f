@@ -305,6 +305,7 @@
   padding: 0;
   background-color: var(--main-background-color, #fff);
   border: 2px solid var(--main-text-color, #000);
+  margin-bottom: 102px;
 }
 
 .card__button:focus-visible {
